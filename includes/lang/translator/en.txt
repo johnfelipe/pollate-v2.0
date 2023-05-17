@@ -1,0 +1,372 @@
+0
+en
+Close
+Loading...
+Verified account
+Admin
+second
+minute
+hour
+day
+week
+month
+year
+decade
+ago
+
+Ask a new question
+Edit question
+Multiple votes
+Pinned Question
+Your Question:
+Fill your question
+No HTML allowed. Invalid question will be ignored.
+
+Type of question:
+Normal Question
+
+Yes/No Question
+Yes
+No
+
+with Images
+Answers' Image:
+Select an image
+
+Type here your answer
+Answers:
+Add Field
+
+Category:
+Select a category
+
+Ending date:
+Select the ending date
+
+Thumbnail:
+Select an image
+No HTML allowed. Invalid question will be ignored.
+
+Submit
+All fields marked with * are required!
+Answers count more than 8!
+Answers count less than 2!
+All answers need images
+The question ask process has ended successfully.
+The question edit process has ended successfully.
+
+
+Edit Details
+First Name:
+type your first name
+
+Last Name:
+type your family name
+
+Description:
+Write a small description of yourself
+
+Profile Photo:
+Select an image
+
+Cover Photo:
+Select an image
+
+Social media:
+Submit
+All fields marked with * are required!
+The description must be less than 50 letters!
+The Edit details process has ended successfully.
+
+
+Links
+Subscribe
+Subscribe to receive inspiration, ideas, and news in your inbox.
+Your Email Address
+Subscribe
+you have already subscribed!
+Please input a valid e-mail!
+Subscribe complete successfully.
+
+
+Statistics
+{count} Members.
+{count} Questions.
+{count} Votes.
+{count} Comments.
+{count} Answers.
+
+
+Forgotten account?
+type your username or email
+Reset
+All fields marked with * are required!
+Please input your username or email that you sign up with!
+We have sent you an email that have you reset password link.
+Error while sending you an email, please try in another time!
+
+Reset your password
+
+
+
+do you want to search for something?
+Ask a Question
+My profile
+Manage Questions
+Cpanel
+Edit Details
+Change Password
+Credits
+Logout
+Are you sure you wanna logout?
+Please, notice that: do not forget to complete your information especially your password.
+Notifications
+Read All
+Show more notifications
+tag himself in
+add vote to
+add comment to
+start following you.
+
+Sign In
+Sign Up
+Home
+Fresh Questions
+Popular Questions
+Members
+Categories
+Followed Questions
+
+
+Login
+Sign in with Facebook
+Sign in with Twitter
+Sign in with Google
+type your username or email
+type your password
+Keep me logged in
+Forgotten account?
+Sign In
+You left username or password empty!
+Membership has been banned by admin, if you think this is a mistake please feel free to contact us.
+Membership needs email activation.
+Membership needs to be approved by the administration.
+You are logged in successfully, We wish you having good times.
+There is a problem with your social ID, the username you want to login with is not yours or already exist with a different social ID!
+Username or password is not available!
+
+
+Following
+Followers
+Questions
+User Questions
+Votes
+Comments
+Tags
+Follow
+Unfollow
+User's Followers:
+User's Following:
+more followers
+more following
+Member:
+Followers:
+Following:
+The user has followed successfully.
+You can not follow yourself!
+You have already followed this user!
+The user has being unfollowed successfully.
+
+
+Follow Question
+Unfollow Question
+Report Question
+Edit
+Delete
+By {user}
+votes
+tags
+replies
+View more comments
+Write a new comment...
+Send comment
+Cancel
+{signup} or {signin} in order to comment.
+Just Now
+Show All
+Voters:
+Votes:
+Question:
+Tags:
+Share
+Share with Facebook
+Share with Twitter
+Share with Google+
+Embed
+
+All fields are required!
+You can not add a vote for this poll because it is expired in
+The question has moved to trash successfully.
+The question has followed successfully.
+You can not follow your questions!
+You have already followed this question!
+The question has been unfollowed successfully.
+
+
+Change Password
+Submit
+Current Password:
+Type here your current Password.
+
+New Password:
+Type here your new Password.
+
+Re-type New Password:
+Type here again your new Password.
+
+All fields are required!
+Your current password is incorrect!
+A new password doesn't match with the repeat!
+Password has edited successfully.
+
+
+Create a new account
+Sign up with Facebook
+Sign up with Twitter
+Sign up with Google
+Username:
+type your username
+The Username is must be between 3 and 15 characters.
+It does not allow the use of symbols and numbers in the Username.
+
+Password:
+type your password
+The password is Must be at least 6 characters.
+
+Re-Password:
+type your re-password
+Re-password is Must match with the password.
+
+Email:
+type your email address
+Please enter a valid email address.
+
+Birth Date
+Day
+Month
+Year
+
+
+Gender
+Male
+Female
+
+Address
+Country
+City
+State
+
+Submit
+All fields marked with * are required!
+The username must contain only letters!
+The Username must be limited between 3 and 15 characters!
+Username already exists!
+The Password must be limited between 6 and 12 characters!
+Re-password is Must match with the password!
+Please input a valid e-mail!
+E-mail Address already exists!
+Your birth date needs to be between 1-1-2005 and 1-1-1942!
+The registration process has ended successfully.
+The registration process has ended successfully. But, it still, need to be approved by the administration.
+The registration process has ended successfully. But, it still, need to activate by email.
+Username or password is not available!
+
+
+Reporting for a bad question
+What is this?
+Repeated question
+Very bad
+Inappropriate content
+
+
+Something else?
+Something else?
+
+Send
+All fields marked with * are required!
+The report has sent successfully.
+Something went wrong!
+
+
+Questions of the
+Day
+Month
+Year
+
+Popular categories
+Social media
+People you should follow
+Small Description
+Votes
+Questions
+Followers
+Tagged
+
+
+Follow Question
+One last step needs to be done
+You can not send a vote for a question already voted for!
+You can not add a vote for this poll because it is expired!
+Your vote is sent successfully.
+Username or password is not available!
+
+
+No data found in our database!
+You don't have permission for accessing this page, you need to upgrade your plan!
+You cant vote for this user question because he has reached the maximum votes per month!
+You have no permission for accessing this page!
+Something went wrong!
+Oh, snap!
+Well done!
+Warning!
+Heads up!
+
+Simple Pricing for Everyone!
+Pricing built for businesses of all sizes. Always know what you'll pay. All plans come with 100% money-back guarantee.
+/per month
+Get Started
+Your payments have been calculated!
+You already paid for this month!
+
+
+Statistics
+Statistics by Answer
+Statistics by Gender
+Statistics by Age
+Statistics by Location
+List of Voters
+No Country
+visitor
+Username
+Voting Date
+Age
+Gender
+Download PDF
+Your payments have been calculated!
+You already paid for this month!
+
+
+Payout
+Your Credits {cc}
+points
+Credits
+How much points
+Email
+Your Email
+You need to reach {cc}, to make a withdrawn.
+Send
+Price
+Status
+Created at
+Your payments have been calculated!
+You already paid for this month!

@@ -1,0 +1,327 @@
+0
+tr
+Kapat
+Yükleniyor...
+Onaylanmış Hesap
+Admin
+saniye
+dakika
+saat
+gün
+hafta
+ay
+yıl
+10 yıl
+önce
+
+Yeni soru sor
+Soruyu düzenle
+Sorunuz:
+Sorunuzu yazınız
+HTML izni yok. Uygun olmayan sorularınız yayınlanmayacak.
+
+Soru Tipi:
+Çoktan Seçmeli
+
+Evet/Hayır
+Evet
+Hayır
+
+Resimli
+Cevap resmi:
+Resim seçiniz
+
+Cevabınızı buraya yazınız
+Cevaplar:
+Alan Ekle
+
+Kategori:
+Kategori seçiniz
+
+Bitiş tarihi:
+Bitiş tarihi seçiniz
+
+Küçük resim:
+Resim seçiniz
+HTML izni yok. Uygun olmayan sorularınız yayınlanmayacak.
+
+Yayınla
+* işaretli alanlar zorunludur!
+8'den fazla cevap seçeneği olamaz!
+2'den az cevap seçeneği olamaz!
+Tüm cevaplar için resim seçilmeli
+Sorunuz başarıyla yayınlandı.
+Sorunuz başarıyla düzenlendi.
+
+
+Profil Bilgilerini Düzenle
+İsim:
+isminizi yazın
+
+Soyisim:
+soyisminizi yazınız
+
+Hakkınızda:
+Kısa bir açıklama yazınız
+
+Profil Fotoğrafı:
+Profil Fotoğrafı Seçiniz:
+
+Kapak Fotoğrafı:
+Kapak Fotoğrafı Seçiniz:
+
+Sosyal Medya:
+Kaydet
+* ile işaretli alanlar zorunludur!
+Açıklama 50 harften daha kısa olmalıdır!
+Profil bilgileriniz başarıyla düzenlendi.
+
+
+Linkler
+E-Posta Bülten
+Pollate hakkındaki son gelişmeler,paylaşılan son anketler ve yenilikler için e-posta bültenimize kaydolabilirsiniz.
+E-Posta Adresiniz
+Kaydol
+E-posta bültenimize zaten kayıtlısınız!
+Lütfen geçerli bir e-posta adresi giriniz!
+E-posta bültenimize başarıyla kaydoldunuz.
+
+
+İstatistikler
+{count} Üye
+{count} Soru
+{count} Oy
+{count} Yorum
+{count} Cevap
+
+
+Şifrenizi mi unuttunuz?
+kullanıcı adınızı veya e-posta adresinizi yazınız
+Sıfırla
+* ile işaretli alanlar zorunludur!
+Lütfen üye olduğunuz e-posta adresinizi veya kullanıcı adınızı giriniz!
+Şifrenizi sıfırlayabileceğiniz link e-posta adresinize gönderilmiştir.
+Mail gönderilirken bir hata oluştu,lütfen daha sonra tekrar deneyiniz!
+
+Şifrenizi sıfırlayın
+
+
+
+Soru Ara
+Soru Sor
+Profilim
+Sorularım
+Admin Panel
+Profili Düzenle
+Şifre Değiştir
+Kredilerim
+Çıkış Yap
+Çıkış yapmak istediğinize emin misiniz?
+Lütfen bilgilerinizi,özellikle şifrenizi güncellemeyi unutmayınız!
+Bildirimler
+Hepsini Oku
+Daha fazla bildirim göster
+sorusunda kendisini tagledi.
+sorunuza oy verdi.
+sorusuna yorum yaptı.
+seni takip etmeye başladı.
+
+Giriş Yap
+Üye Ol
+Anasayfa
+En Yeni Sorular
+Popüler Sorular
+Üyeler
+Kategoriler
+Takip Ettiğim Sorular
+
+
+Giriş Yap
+Facebook ile Giriş Yap
+Twitter ile Giriş Yap
+Google ile Giriş Yap
+kullanıcı adınızı veya e-posta adresinizi yazınız
+şifrenizi yazınız
+Beni Hatırla
+Şİfrenizi mi unuttunuz?
+Giriş Yap
+Kullanıcı adınızı veya şifrenizi boş bıraktınız!
+Üyeliğiniz iptal edilmiştir,eğer bir yanlışlık olduğunu düşünüyorsanız lütfen bizimle iletişime geçiniz.
+Üyeliğinizin aktifleştirilmesi için e-posta onayı gereklidir.
+Üyeliğinizin aktifleştirilmesi için yönetici onayı gereklidir.
+Başarıyla giriş yaptınız, keyifli vakit geçirmeniz dileğiyle!
+Sosyal medya hesaplarınız ile ilgili bir sorun var. Bu sosyal medya hesabı daha önce kullanılmış olabilir ya da size ait olmayabilir!
+Seçtiğiniz kullanıcı adı veya şifre kullanılamaz!
+
+
+Takip Ettikleriniz
+Takipçi
+Soru
+Üye Soruları
+Oy
+Yorumlar
+Etiketler
+Takip Et
+Takibi Bırak
+Takip Ettikleri:
+Takipçileri:
+Daha fazla
+Daha fazla
+Üye:
+Takipçiler:
+Takip Ettikleri:
+Üye başarıyla takip edildi!
+Kendinizi takip edemezsiniz :)!
+Bu üyeyi çoktan takip ediyorsunuz!
+Üyeyi takip etmeyi bıraktınız!
+
+
+Soruyu Takip Et
+Soruyu Takip Etmeyi Bırak
+Soruyu Raporla
+Düzenle
+Sil
+{user} tarafından
+oy
+takipçi
+cevap
+Daha fazla yorum gör
+Yeni yorum yaz...
+Yorum gönder
+İptal Et
+Yorum yapabilmek için {signup} or {signin}.
+Şimdi
+Hepsini Göster
+Oy Kullananlar:
+Oylar:
+Soru:
+Takipçiler:
+Paylaş
+Facebook'ta paylaş
+Twitter'da paylaş
+Google+'da paylaş
+Embed
+
+Tüm alanlar zorunludur!
+Sorunun süresi dolduğundan anketi oylayamazsınız!
+Soru başarıyla silindi.
+Soru başarıyla takip edildi.
+Kendi sorunuzu takip edemezsiniz!
+Bu soruyu çoktan takip ediyorsunuz!
+Soruyu takip etmeyi bıraktınız.
+
+
+Şifrenizi Değiştirin
+Değiştir
+Şimdiki şifreniz:
+Şimdiki şifrenizi yazınız.
+
+Yeni Şifreniz:
+Yeni şifrenizi yazınız.
+
+Yeni şifreniz-tekrar:
+Yeni şifrenizi tekrardan yazınız.
+
+Tüm alanlar zorunludur!
+Şimdiki şifreniz yanlış!
+Yeni şifreniz tekrar ile uyuşmuyor!
+Şifrenizi başarıyla değiştirdiniz.
+
+
+Yeni Üyelik
+Facebook ile Giriş Yap
+Twitter ile Giriş Yap
+Google ile Giriş Yap
+Kullanıcı Adı:
+kullanıcı adınızı yazınız
+Kullanıcı adınız 3 ile 15 karakter arasında olmalıdır.
+Kullanıcı adınızda sembol veya sayı kullanamazsınız.
+
+Şifre
+şifrenizi yazınız
+Şifreniz minimum 6 karakterden oluşmalıdır.
+
+Şifre-tekrar:
+şifrenizi tekrardan yazınız
+Şifre tekrarınız şifreniz ile eşleşmelidir.
+
+E-posta:
+e-posta adresinizi yazınız
+Lütfen geçerli bir e-posta adresi yazınız.
+
+Doğum Tarihi
+Gün
+Ay
+Yıl
+
+Cinsiyet
+Erkek
+Kadın
+
+Adres
+Ülke
+Şehir
+Eyalet
+
+Kaydol
+* ile işaretli alanladr zorunldur!
+Kullanıcı adınız sadece harflerden oluşmalıdır!
+Kullanıcı adınız 3 ile 15 karakter arasında olmalıdır!
+Kullanıcı adı çoktan alınmış!
+Şifreniz 6 ile 12 karakter arasında olmalıdır.!
+Şifre tekrarınız şifreniz ile eşleşmelidir!
+Lütfen geçerli bir e-posta adresi giriniz!
+Yazdığınız e-posta adresi çoktan kayıtlı!
+Doğum tarihiniz 1-1-2005 and 1-1-1942!
+Başarıyla üye oldunuz, keyifli vakit geçirmeniz dileğiyle!
+Başarıyla üye oldunuz fakat üyeliğinizin aktifleştirilmesi için yönetici onayı gereklidir.
+Başarıyla üye oldunuz fakat üyeliğinizin aktifleştirilmesi için e-posta onayı gereklidir.
+Seçtiğiniz kullanıcı adı veya şifre kullanılamaz!
+
+
+Soru şikayeti
+Bu nedir?
+Tekrarlanmış soru
+Çok kötü
+Uygunsuz içerik
+
+
+Başka?
+Başka?
+
+Gönder
+* ile işaretli alanlar zorunludur!
+Rapor başarıyla gönderildi.
+Bir sorun var!
+
+
+Sorusu
+Günün
+Ayın
+Yılın
+
+Popüler Kategoriler
+Sosyal Medya
+Takip Edebileceğiniz Kişiler
+
+Oylar
+Sorular
+Takipçiler
+Etiketler
+
+
+Soruyu Takip Et
+Bir adım daha kaldı
+Dana önce oyladığınız bir soru için oy kullanamazsınız!
+Bu soru için oylama sona erdi! Bu sebeple oy kullanamazsınız!
+Oyunuz başarıyla kaydedildi!.
+Kullanıcı adı veya şifre kullanılamaz!
+
+
+Veritabanında herhangi bir kayıt bulunamadı!
+Bu sayfaya erişmek için yetkiniz yok!
+Bir sorun var!
+Bir sorun var!
+Tebrikler!
+Uyarı!
+Hey!

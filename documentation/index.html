@@ -1,0 +1,224 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>Puerto - Documentation</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<link type="text/css" rel="stylesheet" media="all" href="assets/highlight/jquery.highlight.css" />
+	<script type="text/javascript" src="assets/highlight/jquery.highlight.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('pre.code').highlight({source:1, zebra:1, indent:'space', list:'ol', source:false});
+		});
+	</script>
+
+	<link type="text/css" rel="stylesheet" media="all" href="assets/puerto/css/main.css" />
+
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+		.puerto_row .clearfix { margin: 10px 0; }
+		.p-h { inline-block;padding:2px 6px;background:#EEE;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;color:#555;text-shadow:0 1px 0 #FFF; }
+		div.highlight pre.code ol li, div.highlight pre.code ul li { color: #999; }
+		pre.code .com, pre.code .com span { color: #E44CDE; }
+		pre.code .tag { color: #1979D1; }
+		pre.code .atv { color: #0B963D; }
+		pre.code .atn { color: #999; }
+	</style>
+
+
+	<!-- Font awesome -->
+	<link rel="stylesheet" href="assets/puerto/css/font-awesome.min.css">
+
+</head>
+
+
+<body>
+	<div class="container">
+
+		<h3 class="center alt">&ldquo;Pollate - Poll and Social Script&rdquo; Documentation by &ldquo;Puerto Khalid&rdquo; v1.0</h3>
+
+		<hr>
+
+		<h1 class="center">&ldquo;Pollate - Poll and Social Script&rdquo;</h1>
+
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+					Created: 28/02/2020<br>
+					By: <a href="http://codecanyon.net/user/puertokhalid">Puerto Khalid</a><br>
+					Email: <a href="mailto:el.bouirtou@gmail.com">el.bouirtou@gmail.com</a>
+					</strong>
+				</p>
+			</div><!-- end div .span-6 -->
+
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing my item. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="http://codecanyon.net/user/puertokhalid">here</a>. Thanks so much!</p>
+			</div>
+		</div><!-- end div .borderTop -->
+
+		<hr>
+
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#overview">Overview about Pollate Script</a></li>
+			<li><a href="#install">Install</a></li>
+			<li><a href="#structure">Structure</a></li>
+			<li><a href="#PHP_structure">PHP Structure</a></li>
+			<li><a href="#cssFiles">CSS Files and Structure</a></li>
+			<li><a href="#credits">Sources and Credits</a></li>
+		</ol>
+
+<hr>
+
+<h3 id="overview"><strong>A) Overview</strong> - <a href="#toc">top</a></h3>
+<p>
+	Hi, in this video I will show you an overview about Pollate Script. I hope you enjoy it.
+	<br /> please notice that, if you have any problem or issue with the script or the instraction that I provide please contact me first ASAP in my email <span class="p-h">el.bouirtou@gmail.com</span> or on my Facebook account <span class="p-h"><a href="https://fb.com/prof.puertokhalid">fb.com/prof.puertokhalid</a></span> or the Instagram <span class="p-h"><a href="https://instagram.com/khalidpuerto">instagram.com/khalidpuerto</a></span>. and I will back to you with all help you need.
+</p>
+
+<h3 id="install"><strong>A0) Update</strong> - <a href="#toc">top</a></h3>
+<p>To update Pollate Script you would do as following:</p>
+<p style="display: table;margin: 24px auto;background: #ffd3d3;padding: 12px;border-left: 2px solid #d67070;">
+	<b>Please notice that:</b> If you are already have install the v1 of the script make sure to backup your data first.
+</p>
+
+<p>1) go to phpMyAdmin</p>
+<p style="text-align:center;"><img src="assets/images/u1.png" style="width: 40%"></p>
+
+<p>2) Select your database, then click in <span class="p-h">sql</span> tab:</p>
+<p style="text-align:center;"><img src="assets/images/u2.png" style="width: 40%"></p>
+
+<p>3) go to the files and copy the content of <span class="p-h">_update.sql</span> file:</p>
+<p style="text-align:center;"><img src="assets/images/u4.png" style="width: 60%"></p>
+
+<p>4) past the content of <span class="p-h">_update.sql</span> file in the white box then click the button:</p>
+<p style="text-align:center;"><img src="assets/images/u3.png" style="width: 60%"></p>
+
+<h3 id="install"><strong>A) Install</strong> - <a href="#toc">top</a></h3>
+
+<p>To install Pollate Script you would do as following:</p>
+<p style="display: table;margin: 24px auto;">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/1nUNQtqU2ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>At first you must open the file <span class="p-h">./includes/connection.php</span> and edit the following code:</p>
+
+<pre class="code" lang="php">
+$connect = [
+	'HOSTNAME' => '**put here your hostname**', // HOST NAME
+	'USERNAME' => '**put here the database username**',      // DATABASE USERNAME
+	'PASSWORD' => '**put here the database password**',      // DATABASE PASSWORD
+	'DATABASE' => '**put here the database name**' // DATABASE NAME
+];
+</pre>
+
+<p>When you have finished modifying the file go to <span class="p-h">./db.sql</span> and copy the file content. then go to your server phpMyAdmin. then to <span class="p-h">sql</span> tab and past the code that you copied.</p>
+
+<!-- <p style="text-align:center;"><img src="assets/images/2.png" style="width: 60%"></p> -->
+
+<p>When you done with this step go to <span class="p-h">./includes/define.php</span> and change the <span class="p-h">path</span> and change the link to your domain directory.</p>
+<p style="text-align:center;"><img src="assets/images/u5.png" style="width: 60%"></p>
+
+<hr>
+
+<h3 id="structure"><strong>B) Structure</strong> - <a href="#toc">top</a></h3>
+
+<p>The structure of the files of Pollate Script, is very simple:</p>
+
+<ol>
+	<li>In the <b>"root"</b> there are the PHP pages of Pollate Script.</li>
+	<li>In the folder <b>"includes/"</b> and subfolders there are the files of the Pollate Script system</li>
+	<li>In the folder <b>"css/"</b> there are CSS files of the Pollate Script system</li>
+	<li>In the folder <b>"documentation/"</b> there is the documentation page.</li>
+	<li>In the folder <b>"images/"</b> there are Images of the Pollate Script system</li>
+	<li>In the folder <b>"js/"</b> there are Javascript files of the Pollate Script system</li>
+	<li>In the folder <b>"scss/"</b> there are Sass files of the Pollate Script for the developpers</li>
+	<li>In the folder <b>"upload/"</b> there are the members images that uploaded in your server.</li>
+	<li>In the folder <b>"cpanel/"</b> there is the script's spanel files.</li>
+</ol>
+
+
+<!-- <p style="text-align:center;"><img src="assets/images/4.png" style="width: 60%"></p> -->
+
+<hr>
+
+<h3 id="PHP_structure"><strong>C) PHP Structure</strong> - <a href="#toc">top</a></h3>
+
+<p>To simplify the reading, we have divided the structure into two parts:</p>
+
+<ol>
+	<li>PHP pages (in the "root"):</li>
+	<div class="margin">
+	<!-- - <b>add.php</b>, this script displays a preview of a poll form.<br> -->
+	- <b>ajax.php</b>, this script displays queries of system.<br>
+	- <b>details.php</b> this script displays the family tree details for edit.<br>
+	- <b>footer.php</b>, this script displays a preview of a footer.<br>
+	<!-- - <b>google_login.php</b>, this script displays queries of google login app.<br> -->
+	- <b>header.php</b>, this script displays a preview of a header page.<br>
+	- <b>index.php</b>, this script displays a preview of index page contain the login & register form.<br>
+	- <b>intall.php</b>, this script displays the installation file.<br>
+	- <b>list.php</b>, this script displays the public families list.<br>
+	- <b>mnewmember.php</b>, this script displays a preview of the modal that contain the add new member feature.<br>
+	- <b>tree.php</b>, this script displays a preview of the main family tree page.<br>
+	<!-- <p style="text-align:center;"><img src="assets/images/1.png" style="width: 45%"></p> -->
+	</div>
+
+</ol>
+
+
+		<hr>
+
+		<h3 id="cssFiles"><strong>D) CSS Files and Structure</strong> - <a href="#toc">top</a></h3>
+
+		<p>I'm using these CSS files in this item.</p>
+
+<pre class="code" lang="html">
+<!-- Google Fonts -->
+
+<!-- Font Awseome -->
+
+<!-- JQuery Libraries -->
+
+<!-- Main CSS -->
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/cpanel.css">
+</pre>
+
+
+<p><span class="p-h">style.css</span> contains all of the specific stylings for the Pollate Script.</p>
+<p><span class="p-h">cpanel.css</span> contains all of the specific stylings for the Pollate Script Cpanel.</p>
+
+<p>If you would like to edit a specific section of the site, simply find the appropriate label in the CSS file, and then scroll down until you find the appropriate style that needs to be edited.</p>
+
+<p>If you find that your new style is not overriding, it is most likely because of a specificity problem. Scroll down in your CSS file and make sure that there isn't a similar style that has more weight.</p>
+
+		<hr>
+
+		<h3 id="credits"><strong>E) Sources and Credits</strong> - <a href="#toc">top</a></h3>
+
+		<ul>
+
+		<li>I've used icons font from <a href="https://fontawesome.com/">Font awesome</a>.</li>
+		<li>jQuery Livequery by <a href="http://brandonaaron.net">Brandon Aaron</a></li>
+		<li>jQuery SCEditor by <a href="https://www.sceditor.com/">Sceditor</a></li>
+		</ul>
+
+
+		<hr>
+
+		<p>Once again, thank you so much for purchasing this item. As I said at the beginning, I'd be glad to help you if you have any questions relating to this item. No guarantees, but I'll do my best to assist. If you have a more general question relating to the item on Codecanyon, you might consider visiting the forums and asking your question in the "Item Discussion" section.</p>
+
+		<p class="append-bottom alt large"><strong>Puerto Khalid</strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+
+		<hr class="space">
+	</div><!-- end div .container -->
+</body>
+</html>

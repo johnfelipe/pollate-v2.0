@@ -1,0 +1,40 @@
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|font.css|css)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
+
+RewriteEngine on
+RewriteRule ^index/?$ index.php? [NC]
+RewriteRule ^sign-up/?$ sign-up.php? [NC]
+RewriteRule ^members/?$ members.php? [NC]
+RewriteRule ^members/questions/([0-9-]+)/([A-Za-z0-9-]+)/page/([0-9-]+)/?$ more-questions.php?id=$1&title=$2&page=$3 [NC]
+RewriteRule ^members/questions/([0-9-]+)/([A-Za-z0-9-]+)/?$ more-questions.php?id=$1&title=$2 [NC]
+RewriteRule ^questions/(fresh|popular|categories|followed)/page/([0-9-]+)/?$ index.php?type=$1&page=$2 [NC]
+RewriteRule ^questions/(fresh|popular|categories|followed)/?$ index.php?type=$1 [NC]
+RewriteRule ^questions/category/([0-9-]+)/([A-Za-z0-9-]+)/page/([0-9-]+)/?$ index.php?type=categories&id=$1&title=$2&page=$3 [NC]
+RewriteRule ^questions/category/([0-9-]+)/([A-Za-z0-9-]+)/?$ index.php?type=categories&id=$1&title=$2 [NC]
+RewriteRule ^questions/single/([0-9-]+)/([A-Za-z0-9-]+)/?$ questions.php?id=$1&title=$2 [NC]
+RewriteRule ^questions/voters/([0-9-]+)/([A-Za-z0-9-]+)/?$ voters.php?id=$1&title=$2 [NC]
+RewriteRule ^questions/voters/([0-9-]+)/([A-Za-z0-9-]+)/page/([0-9-]+)/?$ voters.php?id=$1&title=$2&page=$3 [NC]
+RewriteRule ^questions/tags/([0-9-]+)/([A-Za-z0-9-]+)/?$ tags.php?id=$1&title=$2 [NC]
+RewriteRule ^questions/iframe/([0-9-]+)/([A-Za-z0-9-]+)/?$ iframe.php?id=$1&title=$2 [NC]
+RewriteRule ^index/page/([0-9-]+)/?$ index.php?page=$1 [NC]
+RewriteRule ^members/page/([0-9-]+)/?$ members.php?page=$1 [NC]
+RewriteRule ^members/profile/([0-9-]+)/([A-Za-z0-9-]+)/?$ profile.php?id=$1&title=$2 [NC]
+RewriteRule ^members/followers/([0-9-]+)/([A-Za-z0-9-]+)/?$ followers.php?id=$1&title=$2&type=er [NC]
+RewriteRule ^members/following/([0-9-]+)/([A-Za-z0-9-]+)/?$ followers.php?id=$1&title=$2&type=ing [NC]
+RewriteRule ^members/followers/([0-9-]+)/([A-Za-z0-9-]+)/page/([0-9-]+)/?$ followers.php?id=$1&title=$2&type=er&page=$3 [NC]
+RewriteRule ^members/following/([0-9-]+)/([A-Za-z0-9-]+)/page/([0-9-]+)/?$ followers.php?id=$1&title=$2&type=ing&page=$3 [NC]
+RewriteRule ^members/questions/([0-9-]+)/([A-Za-z0-9-]+)/?$ profile.php?id=$1&title=$2 [NC]
+RewriteRule ^pages/([0-9-]+)/([A-Za-z0-9-]+)/?$ pages.php?id=$1&title=$2 [NC]
+RewriteRule ^questions/edit/([0-9-]+)/([A-Za-z0-9-]+)/?$ ask.php?id=$1&title=$2 [NC]
+RewriteRule ^questions/new/?$ ask.php [NC]
+RewriteRule ^profile/details/?$ details.php [NC]
+RewriteRule ^plans/?$ plans.php? [NC]
+
+
+#RewriteCond %{HTTPS} !on
+#RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+#RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}

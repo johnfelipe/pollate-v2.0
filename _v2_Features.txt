@@ -1,0 +1,42 @@
+
+
+What is new in v1.1
+
++ Add payments system
+	- Buy Plans
+	    - See Poll Statistics by Gender
+	    - See Poll Statistics by Age
+	    - See Poll Statistics by Location
+			- Export Poll statistics
+			- Make more than 5 polls a months
+			- Get more than 25 votes a months
+			- ... All from admin section
+
++ Add credits paid system for users
+	- 1 point = $0.001 (manage from cPanel)
+
++ Add Questions statistics (Gender, Age, Location)
++ Add Pinned Poll feature
++ Add Multiple votes or single votes (checkbox or radio)
++ Add RTL support
++ Add Registration by Email
+
++ cPanel
+  - Manage languages (Add/edit/Delete)
+  - Disable/Enable voting info for visitors
+  - facebook sidebar box
+  - Disable/Enable Social media and social media info
+  - Disable/Enable Plans
+	- Add draggable sorting in pages
+	- Manage credit points
+	- Questions in home page
+	- Payment
+	- Credits (Payout)
+  - manage ads
+	- Forget Password message
+	- User Verifications by email message
+
++ Crop photos before upload
+
+
++ Fix bugs (icons, edit poll, sql strict mode, subscribers, User Verifications by email, Responsive, notifications, code editor, admin paginations)
